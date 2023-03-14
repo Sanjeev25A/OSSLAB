@@ -1,3 +1,4 @@
 hi
 hello
 new line
+Created from branch b2
